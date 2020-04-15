@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 insert file2.txt
+=======
+>>>>>>> parent of 1345d3b... inserted file2.txt
